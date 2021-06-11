@@ -22,6 +22,8 @@ public class SpringJenkinsApplication {
 		
 		System.out.println("hi bro");
 		System.out.println("i am prasad");
+		System.out.println("how are you");
+		
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 
 	
