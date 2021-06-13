@@ -21,8 +21,8 @@ public class SpringJenkinsApplication {
 		logger.info("Allipcation excuted.......");
 		
 		System.out.println("hi bro");
-		System.out.println("i am prasad");
-		System.out.println("how are you");
+		System.out.println("sir attara");
+		
 		
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 
